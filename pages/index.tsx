@@ -53,7 +53,7 @@ const Home: NextPage = () => {
         <SectionContainer>
           <Title>@damianveltkamp</Title>
           <Button
-            aria-label="Github logo"
+            aria-label="Link to portfolio website of Damian Veltkamp"
             href="https://www.damianveltkamp.tech/"
             target="_blank"
             rel="noreferrer"
@@ -61,7 +61,7 @@ const Home: NextPage = () => {
             Portfolio website
           </Button>
           <Button
-            aria-label="Github logo"
+            aria-label="Link to Damian Veltkamp github"
             href="https://github.com/damianveltkamp"
             target="_blank"
             rel="noreferrer"
@@ -69,12 +69,12 @@ const Home: NextPage = () => {
             Github
           </Button>
           <Button
-            aria-label="Github logo"
+            aria-label="Link to twitter of Damian Veltkamp"
             href="https://twitter.com/VeltkampDamian"
             target="_blank"
             rel="noreferrer"
           >
-            Github
+            Twitter
           </Button>
         </SectionContainer>
       </MainContainer>
