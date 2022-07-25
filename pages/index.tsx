@@ -61,6 +61,14 @@ const Home: NextPage = () => {
             Portfolio website
           </Button>
           <Button
+            aria-label="Link to blog website of Damian Veltkamp"
+            href="https://www.blog.damianveltkamp.tech/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Blog, still under construction
+          </Button>
+          <Button
             aria-label="Link to Damian Veltkamp github"
             href="https://github.com/damianveltkamp"
             target="_blank"
