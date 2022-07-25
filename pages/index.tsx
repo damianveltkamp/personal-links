@@ -76,14 +76,6 @@ const Home: NextPage = () => {
           >
             Github
           </Button>
-          <Button
-            aria-label="Link to twitter of Damian Veltkamp"
-            href="https://twitter.com/VeltkampDamian"
-            target="_blank"
-            rel="noreferrer"
-          >
-            Twitter
-          </Button>
         </SectionContainer>
       </MainContainer>
 
