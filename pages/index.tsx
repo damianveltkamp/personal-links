@@ -62,7 +62,7 @@ const Home: NextPage = () => {
           </Button>
           <Button
             aria-label="Link to blog website of Damian Veltkamp"
-            href="https://www.blog.damianveltkamp.tech/"
+            href="https://blog.damianveltkamp.tech/"
             target="_blank"
             rel="noreferrer"
           >
