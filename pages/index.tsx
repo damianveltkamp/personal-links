@@ -66,7 +66,7 @@ const Home: NextPage = () => {
             target="_blank"
             rel="noreferrer"
           >
-            Blog, still under construction
+            Blog
           </Button>
           <Button
             aria-label="Link to Damian Veltkamp github"
