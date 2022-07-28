@@ -29,8 +29,8 @@ const Button = styled("a")`
   display: block;
   padding: 15px 20px;
   text-align: center;
-  background: #58a6ff;
-  color: #fff;
+  background: #efa35d;
+  color: #1f2937;
   border-radius: 8px;
 
   &:not(:last-child) {
